@@ -1,6 +1,8 @@
 # Mask_nomask-detection-using-live-Laptop-mobile-Cam
-Created a model of mast detection using mast & no mask data set and saved as .h5 model.
-Used that model to test using live Cam of laptop/mobile.
+
+Build model using transfer learning(VGG19) and achieved an accuracy of 98%
+Haarcascade classifier was used to detect the faces and get the bounding boxes. Which was then sent to classify into mask and not mask labels.
+
 
 
 dataset link:-https://drive.google.com/file/d/1mdGtZRqQWR5ivfpCgjx2rTTSXcd-2UNB/view?usp=sharing
